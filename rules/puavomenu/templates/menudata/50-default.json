@@ -1,0 +1,3426 @@
+{
+  "programs": {
+    "acroread": {
+      "type": 0,
+      "tags": [
+        "default"
+      ],
+      "keywords": [
+        "pdf"
+      ],
+      "name": {
+        "en": "Acrobat Reader",
+        "fi": "Acrobat Reader",
+        "sv": "Acrobat Reader",
+        "de": "Acrobat Reader"
+      },
+      "puavopkg_id": "adobe-reader",
+      "puavopkg_state": -1,
+      "puavopkg_icon": null
+    },
+    "airtame": {
+      "type": 0,
+      "tags": [
+        "audiovideo",
+        "default"
+      ],
+      "name": {
+        "en": "Airtame",
+        "fi": "Airtame",
+        "sv": "Airtame",
+        "de": "Airtame"
+      },
+      "puavopkg_id": "airtame",
+      "puavopkg_state": -1,
+      "puavopkg_icon": null
+    },
+    "amme": {
+      "type": 2,
+      "tags": [
+        "default",
+        "internet",
+        "education"
+      ],
+      "name": {
+        "en": "Amme",
+        "fi": "Amme",
+        "sv": "Amme",
+        "de": "Amme"
+      },
+      "description": {
+        "en": "Oppimateriaalia ammatilliseen erityisopetukseen",
+        "fi": "Oppimateriaalia ammatilliseen erityisopetukseen",
+        "sv": "Oppimateriaalia ammatilliseen erityisopetukseen",
+        "de": "Oppimateriaalia ammatilliseen erityisopetukseen"
+      },
+      "icon": "/usr/share/icons/Faenza/apps/96/gimp.png",
+      "command": "https://www11.edu.fi/materiaali/index.php?id=2"
+    },
+    "anki": {
+      "type": 0,
+      "tags": [
+        "default",
+        "education"
+      ],
+      "name": {
+        "en": "Anki",
+        "fi": "Anki-muistikortit"
+      }
+    },
+    "appinventor": {
+      "type": 0,
+      "tags": [
+        "default"
+      ],
+      "name": {
+        "en": "AppInventor USB",
+        "fi": "AppInventor USB",
+        "sv": "AppInventor USB",
+        "de": "AppInventor USB"
+      },
+      "puavopkg_id": "appinventor",
+      "puavopkg_state": -1,
+      "puavopkg_icon": null
+    },
+    "arduino": {
+      "type": 0,
+      "tags": [
+        "default"
+      ],
+      "name": {
+        "en": "Arduino IDE",
+        "fi": "Arduino IDE",
+        "sv": "Arduino IDE",
+        "de": "Arduino IDE"
+      },
+      "icon": "/opt/arduino-ide/lib/icons/96x96/apps/arduino.png",
+      "puavopkg_id": "arduino-ide",
+      "puavopkg_state": -1,
+      "puavopkg_icon": null
+    },
+    "audacity": {
+      "type": 0,
+      "tags": [
+        "default",
+        "audio"
+      ],
+      "name": {
+        "en": "Audacity-audio editor",
+        "fi": "Audacity-äänieditori",
+        "sv": "Audacity-ljudredigerare",
+        "de": "Audacity Audio bearbeiten"
+      }
+    },
+    "asebastudiothymio": {
+      "type": 0,
+      "tags": [
+        "defult"
+      ]
+    },
+    "avogadro": {
+      "type": 0,
+      "tags": [
+        "default"
+      ],
+      "name": {
+        "en": "Avogadro",
+        "fi": "Avogadro-molekyylimuokkain",
+        "sv": "Avogadro",
+        "de": "Avogadro"
+      }
+    },
+    "blender": {
+      "type": 0,
+      "tags": [
+        "default"
+      ],
+      "name": {
+        "en": "Blender",
+        "fi": "Blender-3D-mallinnusohjelma",
+        "sv": "Blender-3D-modellering",
+        "de": "Blender-3D-Modellierung"
+      }
+    },
+    "bluefish": {
+      "type": 0,
+      "tags": [
+        "default"
+      ],
+      "name": {
+        "en": "Bluefish HTML-editor",
+        "fi": "Bluefish HTML-editori",
+        "sv": "Bluefish HTML-redigerare",
+        "de": "Bluefish HTML-editor"
+      }
+    },
+    "bluegriffon": {
+      "type": 0,
+      "tags": [
+        "default"
+      ],
+      "name": {
+        "en": "Bluegriffon",
+        "fi": "Bluegriffon",
+        "sv": "Bluegriffon",
+        "de": "Bluegriffon"
+      },
+      "puavopkg_id": "bluegriffon",
+      "puavopkg_state": -1,
+      "puavopkg_icon": null
+    },
+    "brasero": {
+      "type": 0,
+      "tags": [
+        "default"
+      ],
+      "name": {
+        "en": "Brasero - CD/DVD -writer",
+        "fi": "Brasero - CD/DVD -kirjoitus",
+        "sv": "Brasero - CD/DVD -brännare",
+        "de": "Brasero - CD/DVD -brennen"
+      }
+    },
+    "calibre-gui": {
+      "type": 0,
+      "tags": [
+        "default"
+      ],
+      "keywords": [
+        "e-book",
+        "ebook"
+      ],
+      "name": {
+        "en": "Calibre",
+        "fi": "Calibre",
+        "sv": "Calibre",
+        "de": "Calibre"
+      }
+    },
+    "celestia": {
+      "type": 0,
+      "tags": [
+        "default"
+      ],
+      "name": {
+        "en": "Celestia-space simulation",
+        "fi": "Avaruussimulaattori",
+        "sv": "Rymdsimulator",
+        "de": "Celestia Weltraum Simulator"
+      }
+    },
+    "chromium": {
+      "type": 0,
+      "tags": [
+        "default"
+      ],
+      "name": {
+        "en": "Chromium-browser",
+        "fi": "Chromium-selain",
+        "sv": "Chromium",
+        "de": "Chromium-Browser"
+      },
+      "icon": "/usr/share/icons/hicolor/64x64/apps/chromium.png"
+    },
+    "cmaptools": {
+      "type": 0,
+      "tags": [
+        "default"
+      ],
+      "name": {
+        "en": "CmapTools-mindmap",
+        "fi": "CmapTools-miellekartta",
+        "sv": "CmapTools-mindmap",
+        "de": "CmapTools-Mindmap"
+      },
+      "puavopkg_id": "cmaptools",
+      "puavopkg_state": -1,
+      "puavopkg_icon": null
+    },
+    "com.rosegardenmusic.rosegarden": {
+      "type": 0,
+      "tags": [
+        "default",
+        "audio"
+      ],
+      "name": {
+        "en": "Rosegarden-sequencer",
+        "fi": "Rosegarden-sekvensseri",
+        "sv": "Rosegarden-sekvenser",
+        "de": "Rosegarden Sequencer"
+      },
+      "icon": "/usr/share/icons/hicolor/64x64/apps/rosegarden.png"
+    },
+    "cura-appimage": {
+      "type": 0,
+      "tags": [
+        "default"
+      ],
+      "name": {
+        "en": "Cura",
+        "fi": "Cura",
+        "sv": "Cura",
+        "de": "Cura"
+      },
+      "puavopkg_id": "cura-appimage",
+      "puavopkg_state": -1,
+      "puavopkg_icon": null
+    },
+    "db_koulu1": {
+      "type": 0,
+      "tags": [
+        "default"
+      ]
+    },
+    "db_koulu2": {
+      "type": 0,
+      "tags": [
+        "default"
+      ]
+    },
+    "designer-qt4": {
+      "type": 0,
+      "tags": [
+        "default"
+      ],
+      "name": {
+        "en": "Qt4 - graphical UI designer",
+        "fi": "Käyttöliittymä-suunnittelija",
+        "sv": "Användargränssnitt-designer",
+        "de": "Qt4 - Grafischer UI Designer"
+      },
+      "icon": "/usr/share/icons/Faenza/apps/96/qtdesigner.png"
+    },
+    "dia": {
+      "type": 0,
+      "tags": [
+        "default"
+      ]
+    },
+    "discord": {
+      "type": 2,
+      "tags": [
+        "default",
+        "internet",
+        "education"
+      ],
+      "keywords": [
+        "etä",
+        "etäopetus",
+        "distance",
+        "remote",
+        "etätyö"
+      ],
+      "name": {
+        "en": "Discord (web)",
+        "fi": "Discord (web)",
+        "sv": "Discord (web)",
+        "de": "Discord (web)"
+      },
+      "description": {
+        "en": "Discord is an app to communicate over voice, video, and text.",
+        "fi": "Pelaajille suunnattu puhe- ja tekstichat, joka on palveluna monelle oppilaalle tuttu. Tunnuksen luominen edellyttää suostumusta vanhemmilta.",
+        "sv": "Discord is an app to communicate over voice, video, and text.",
+        "de": "Discord is an app to communicate over voice, video, and text."
+      },
+      "icon": "config-users",
+      "command": "https://discordapp.com/"
+    },
+    "dropbox": {
+      "type": 0,
+      "tags": [
+        "default"
+      ],
+      "name": {
+        "en": "Dropbox",
+        "fi": "Dropbox",
+        "sv": "Dropbox",
+        "de": "Dropbox"
+      },
+      "puavopkg_id": "dropbox",
+      "puavopkg_state": -1,
+      "puavopkg_icon": null
+    },
+    "drracket": {
+      "type": 0,
+      "tags": [
+        "default"
+      ]
+    },
+    "eclipse-cpp": {
+      "type": 0,
+      "tags": [
+        "default"
+      ]
+    },
+    "eclipse-java": {
+      "type": 0,
+      "tags": [
+        "default"
+      ]
+    },
+    "eclipse-javascript": {
+      "type": 0,
+      "tags": [
+        "default"
+      ]
+    },
+    "eclipse-php": {
+      "type": 0,
+      "tags": [
+        "default"
+      ]
+    },
+    "edison": {
+      "type": 2,
+      "tags": [
+        "default"
+      ],
+      "name": {
+        "en": "Edison",
+        "fi": "Edison",
+        "sv": "Edison",
+        "de": "Edison"
+      },
+      "icon": "/usr/share/icons/Faenza/mimetypes/96/text-html.png",
+      "command": "http://app.edison.fi"
+    },
+    "ekapeli": {
+      "type": 0,
+      "condition": "!personally_administered",
+      "tags": [
+        "default",
+        "education"
+      ],
+      "name": {
+        "en": "Ekapeli",
+        "fi": "Ekapeli",
+        "sv": "Ekapeli",
+        "de": "Ekapeli"
+      },
+      "puavopkg_id": "ekapeli",
+      "puavopkg_state": -1,
+      "puavopkg_icon": null
+    },
+    "ekapeli-alku": {
+      "type": 0,
+      "tags": [
+        "default",
+        "education"
+      ],
+      "name": {
+        "en": "Ekapeli Alku",
+        "fi": "Ekapeli Alku",
+        "sv": "Ekapeli Alku",
+        "de": "Ekapeli Alku"
+      },
+      "puavopkg_id": "ekapeli-alku",
+      "puavopkg_state": -1,
+      "puavopkg_icon": null
+    },
+    "ekapeli-maahanmuuttaja": {
+      "type": 0,
+      "condition": "!personally_administered",
+      "tags": [
+        "default",
+        "education"
+      ]
+    },
+    "ekapeliweb": {
+      "type": 2,
+      "condition": "!personally_administered",
+      "tags": [
+        "default",
+        "education"
+      ],
+      "name": {
+        "en": "Ekapeli (websivu)",
+        "fi": "Ekapeli (websivu)",
+        "sv": "Ekapeli (websivu)",
+        "de": "Ekapeli (websivu)"
+      },
+      "icon": "/usr/share/icons/Faenza/categories/96/gnome-joystick.png",
+      "command": "http://www.lukimat.fi/lukeminen/materiaalit/ekapeli"
+    },
+    "elmo-imagemate": {
+      "type": 1,
+      "tags": [
+        "default"
+      ],
+      "name": {
+        "en": "Elmo Imagemate",
+        "fi": "Elmo Imagemate",
+        "sv": "Elmo Imagemate",
+        "de": "Elmo Imagemate"
+      },
+      "description": {
+        "en": "Document camera",
+        "fi": "Document camera",
+        "sv": "Document camera",
+        "de": "Document camera"
+      },
+      "icon": "/usr/share/icons/Faenza/devices/scalable/camera.svg",
+      "command": "chromium --app=https://imagemate-c.com --new-window --temp-profile"
+    },
+    "empathy": {
+      "type": 0,
+      "tags": [
+        "default"
+      ],
+      "name": {
+        "en": "Empathy-chat client",
+        "fi": "Empathy-pikaviestin",
+        "sv": "Empathy-IM-klient",
+        "de": "Empathy-Chat-Client"
+      }
+    },
+    "enchanting": {
+      "type": 0,
+      "tags": [
+        "default"
+      ],
+      "name": {
+        "en": "Enchanting",
+        "fi": "Enchanting",
+        "sv": "Enchanting",
+        "de": "Enchanting"
+      },
+      "puavopkg_id": "enchanting",
+      "puavopkg_state": -1,
+      "puavopkg_icon": null
+    },
+    "eog": {
+      "type": 0,
+      "tags": [
+        "default"
+      ],
+      "icon": "/usr/share/icons/Faenza/apps/scalable/eog.svg"
+    },
+    "eric6": {
+      "type": 0,
+      "tags": [
+        "default"
+      ]
+    },
+    "filezilla": {
+      "type": 0,
+      "tags": [
+        "default"
+      ]
+    },
+    "firefox": {
+      "type": 0,
+      "tags": [
+        "default"
+      ],
+      "name": {
+        "en": "Firefox-browser",
+        "fi": "Firefox-selain",
+        "sv": "Firefox",
+        "de": "Firefox"
+      }
+    },
+    "FlashPrint": {
+      "type": 0,
+      "tags": [
+        "default"
+      ],
+      "name": {
+        "en": "FlashForge 3D",
+        "fi": "FlashForge 3D",
+        "sv": "FlashForge 3D",
+        "de": "FlashForge 3D"
+      },
+      "puavopkg_id": "flashforge-flashprint",
+      "puavopkg_state": -1,
+      "puavopkg_icon": null
+    },
+    "fmit": {
+      "type": 0,
+      "tags": [
+        "default",
+        "audio"
+      ],
+      "name": {
+        "en": "Fmit-instrument tuner",
+        "fi": "Viritinohjelma",
+        "sv": "Stämmningsprogram",
+        "de": "Stimmprogramm"
+      },
+      "icon": "/usr/share/icons/hicolor/scalable/apps/fmit.svg"
+    },
+    "freecad": {
+      "type": 0,
+      "tags": [
+        "default"
+      ]
+    },
+    "freeciv-gtk2": {
+      "type": 0,
+      "tags": [
+        "default"
+      ]
+    },
+    "fritzing": {
+      "type": 0,
+      "tags": [
+        "default"
+      ],
+      "icon": "/usr/share/pixmaps/fritzing_icon.png"
+    },
+    "geany": {
+      "type": 0,
+      "tags": [
+        "default"
+      ],
+      "name": {
+        "en": "Geany - text editor",
+        "fi": "Geany - monikielinen editori",
+        "sv": "Geany - utvecklingsmiljö",
+        "de": "Geany - Textverarbeitung"
+      },
+      "icon": "/usr/share/icons/hicolor/scalable/apps/geany.svg"
+    },
+    "geogebra": {
+      "type": 0,
+      "tags": [
+        "default",
+        "education"
+      ],
+      "keywords": [
+        "digabi"
+      ],
+      "name": {
+        "en": "Geogebra 5",
+        "fi": "Geogebra 5",
+        "sv": "Geogebra 5",
+        "de": "Geogebra 5"
+      },
+      "puavopkg_id": "geogebra",
+      "puavopkg_state": -1,
+      "puavopkg_icon": null
+    },
+    "geogebra6": {
+      "type": 0,
+      "tags": [
+        "default",
+        "education"
+      ],
+      "name": {
+        "en": "Geogebra 6",
+        "fi": "Geogebra 6",
+        "sv": "Geogebra 6",
+        "de": "Geogebra 6"
+      },
+      "puavopkg_id": "geogebra6",
+      "puavopkg_state": -1,
+      "puavopkg_icon": null
+    },
+    "gftp": {
+      "type": 0,
+      "tags": [
+        "default",
+        "network"
+      ],
+      "icon": "/usr/share/icons/gnome/48x48/places/gnome-fs-ftp.png"
+    },
+    "gimp": {
+      "type": 0,
+      "tags": [
+        "default",
+        "graphics"
+      ],
+      "keywords": [
+        "photoshop",
+        "digabi"
+      ],
+      "name": {
+        "en": "Gimp - GNU Image Manipulation Program",
+        "fi": "Gimp-kuvankäsittely",
+        "sv": "Gimp",
+        "de": "Gimp"
+      }
+    },
+    "GlobiLab": {
+      "type": 0,
+      "tags": [
+        "default"
+      ],
+      "name": {
+        "en": "GlobiLab",
+        "fi": "GlobiLab",
+        "sv": "GlobiLab",
+        "de": "GlobiLab"
+      },
+      "puavopkg_id": "globilab",
+      "puavopkg_state": -1,
+      "puavopkg_icon": null
+    },
+    "gnome-klotski": {
+      "type": 0,
+      "tags": [
+        "default"
+      ]
+    },
+    "gnome-mahjongg": {
+      "type": 0,
+      "tags": [
+        "default"
+      ]
+    },
+    "gnome-mines": {
+      "type": 0,
+      "tags": [
+        "default"
+      ]
+    },
+    "gnome-sudoku": {
+      "type": 0,
+      "tags": [
+        "default"
+      ]
+    },
+    "gnubg": {
+      "type": 0,
+      "tags": [
+        "default"
+      ]
+    },
+    "google-chrome": {
+      "type": 0,
+      "tags": [
+        "default",
+        "network"
+      ],
+      "name": {
+        "en": "Chrome-browser",
+        "fi": "Chrome-selain",
+        "sv": "Chrome",
+        "de": "Chrome"
+      },
+      "puavopkg_id": "google-chrome",
+      "puavopkg_state": -1,
+      "puavopkg_icon": null
+    },
+    "google-earth": {
+      "type": 0,
+      "tags": [
+        "default"
+      ],
+      "name": {
+        "en": "Google Earth",
+        "fi": "Google Earth",
+        "sv": "Google Earth",
+        "de": "Google Earth"
+      },
+      "icon": "/usr/share/icons/Faenza/apps/48/googleearth.png",
+      "puavopkg_id": "google-earth",
+      "puavopkg_state": -1,
+      "puavopkg_icon": null
+    },
+    "google-meet": {
+      "type": 2,
+      "tags": [
+        "default",
+        "internet",
+        "education"
+      ],
+      "keywords": [
+        "etä",
+        "etäopetus",
+        "distance",
+        "remote",
+        "etätyö"
+      ],
+      "name": {
+        "en": "Google Meet",
+        "fi": "Google Meet",
+        "sv": "Google Meet",
+        "de": "Google Meet"
+      },
+      "description": {
+        "en": "Google Meet",
+        "fi": "Google Meet",
+        "sv": "Google Meet",
+        "de": "Google Meet"
+      },
+      "icon": "config-users",
+      "command": "https://meet.google.com"
+    },
+    "gucharmap": {
+      "type": 0,
+      "tags": [
+        "default"
+      ]
+    },
+    "hydrogen": {
+      "type": 0,
+      "tags": [
+        "default",
+        "audio"
+      ],
+      "name": {
+        "en": "Hydrogen-drum machine",
+        "fi": "Hydrogen-rumpukone",
+        "sv": "Hydrogen-trummaskin",
+        "de": "Hydrogen Drum Machine"
+      }
+    },
+    "idle-python2.7": {
+      "type": 0,
+      "tags": [
+        "default"
+      ],
+      "icon": "/usr/share/icons/Faenza/mimetypes/96/text-x-python.png"
+    },
+    "idle-python3.7": {
+      "type": 0,
+      "tags": [
+        "default"
+      ],
+      "icon": "/usr/share/icons/Faenza/mimetypes/96/text-x-python.png"
+    },
+    "inkscape": {
+      "type": 0,
+      "tags": [
+        "default",
+        "graphics"
+      ],
+      "keywords": [
+        "digabi"
+      ],
+      "name": {
+        "en": "Inkscape-vector graphics editor",
+        "fi": "Inkscape-vektorigrafiikka",
+        "sv": "Inkscape-vektorgrafik",
+        "de": "Inkscape-Vektorgrafik"
+      }
+    },
+    "io.github.wxmaxima_developers.wxMaxima": {
+      "type": 0,
+      "condition": "ti_nspire_cx_cas",
+      "tags": [
+        "default"
+      ]
+    },
+    "jitsi": {
+      "type": 2,
+      "tags": [
+        "default",
+        "internet",
+        "education"
+      ],
+      "keywords": [
+        "etä",
+        "etäopetus",
+        "distance",
+        "remote",
+        "etätyö"
+      ],
+      "name": {
+        "en": "Jitsi Meet (web)",
+        "fi": "Jitsi Meet (web)",
+        "sv": "Jitsi Meet (web)",
+        "de": "Jitsi Meet (web)"
+      },
+      "description": {
+        "en": "Jitsi Meet",
+        "fi": "Jitsi on maksuton ja tietoturvaan keskittynyt keskustelualusta, jonka käyttö ei vaadi erillistä sovellusta tai tunnuksia.",
+        "sv": "Jitsi Meet",
+        "de": "Jitsi Meet"
+      },
+      "icon": "config-users",
+      "command": "https://meet.jit.si"
+    },
+    "kahoot": {
+      "type": 2,
+      "tags": [
+        "default",
+        "education"
+      ],
+      "name": {
+        "en": "Kahoot!",
+        "fi": "Kahoot!",
+        "sv": "Kahoot!",
+        "de": "Kahoot!"
+      },
+      "description": {
+        "en": "Kahoot",
+        "fi": "Kahoot",
+        "sv": "Kahoot",
+        "de": "Kahoot"
+      },
+      "icon": "/usr/share/icons/Gion/48x48/categories/xfce-internet.png",
+      "command": "https://getkahoot.com/"
+    },
+    "kamerka": {
+      "type": 0,
+      "tags": [
+        "default"
+      ],
+      "icon": "/usr/share/icons/Faenza/devices/96/camera-web.png"
+    },
+    "kenavision": {
+      "type": 1,
+      "tags": [
+        "video",
+        "default",
+        "science"
+      ],
+      "name": {
+        "en": "Kena Vision Microscope",
+        "fi": "Kena Vision Microscope",
+        "sv": "Kena Vision Microscope",
+        "de": "Kena Vision Microscope"
+      },
+      "icon": "/usr/share/icons/Faenza/devices/96/camera-web.png",
+      "command": "/opt/av4kav/lib/av4.sh",
+      "puavopkg_id": "av4kav",
+      "puavopkg_state": -1,
+      "puavopkg_icon": null
+    },
+    "kino": {
+      "type": 1,
+      "tags": [
+        "audiovideo",
+        "default"
+      ],
+      "name": {
+        "en": "Kino-non-linear DV editor",
+        "fi": "Kino-videoeditori",
+        "sv": "Kino-videoredigerare",
+        "de": "Kino Filme bearbeiten"
+      },
+      "description": {
+        "en": "Edit videos",
+        "fi": "Muokkaa videoita",
+        "sv": "Redigera videon",
+        "de": "Video bearbeiten"
+      },
+      "icon": "kino",
+      "command": "kino"
+    },
+    "kojo": {
+      "type": 0,
+      "tags": [
+        "default"
+      ],
+      "name": {
+        "en": "Kojo",
+        "fi": "Kojo",
+        "sv": "Kojo",
+        "de": "Kojo"
+      },
+      "puavopkg_id": "kojo",
+      "puavopkg_state": -1,
+      "puavopkg_icon": null
+    },
+    "Nightcode": {
+      "type": 0,
+      "tags": [
+        "default"
+      ],
+      "name": {
+        "en": "Nightcode",
+        "fi": "Nightcode",
+        "sv": "Nightcode",
+        "de": "Nightcode"
+      },
+      "puavopkg_id": "nightcode",
+      "puavopkg_state": -1,
+      "puavopkg_icon": null
+    },
+    "libreoffice-base": {
+      "type": 0,
+      "tags": [
+        "default",
+        "education",
+        "office"
+      ],
+      "keywords": [
+        "libreoffice"
+      ],
+      "name": {
+        "en": "LibreOffice Base",
+        "fi": "LibreOffice Tietokanta",
+        "de": "LibreOffice Basis"
+      }
+    },
+    "libreoffice-calc": {
+      "type": 0,
+      "tags": [
+        "default",
+        "education",
+        "office"
+      ],
+      "keywords": [
+        "libreoffice",
+        "spreadsheet",
+        "calc",
+        "excel"
+      ],
+      "name": {
+        "en": "LibreOffice Calc",
+        "fi": "LibreOffice Taulukkolaskenta",
+        "de": "LibreOffice Tabellenkalculation"
+      }
+    },
+    "libreoffice-draw": {
+      "type": 0,
+      "tags": [
+        "default",
+        "education",
+        "office"
+      ],
+      "keywords": [
+        "libreoffice"
+      ],
+      "name": {
+        "en": "LibreOffice Draw",
+        "fi": "LibreOffice Piirros",
+        "de": "LibreOffice Zeichnung"
+      }
+    },
+    "libreoffice-impress": {
+      "type": 0,
+      "tags": [
+        "default",
+        "education",
+        "office"
+      ],
+      "keywords": [
+        "libreoffice",
+        "powerpoint"
+      ],
+      "name": {
+        "en": "LibreOffice Impress",
+        "fi": "LibreOffice Esitys",
+        "de": "LibreOffice Präsentation"
+      }
+    },
+    "libreoffice-math": {
+      "type": 0,
+      "tags": [
+        "default",
+        "education",
+        "office"
+      ],
+      "keywords": [
+        "libreoffice",
+        "equation"
+      ],
+      "name": {
+        "en": "LibreOffice Math",
+        "fi": "LibreOffice Kaava",
+        "de": "LibreOffice Math"
+      }
+    },
+    "libreoffice-writer": {
+      "type": 0,
+      "tags": [
+        "default",
+        "education",
+        "office"
+      ],
+      "keywords": [
+        "kirjoitus",
+        "libreoffice",
+        "word",
+        "writer"
+      ],
+      "name": {
+        "en": "LibreOffice Writer",
+        "fi": "LibreOffice Tekstinkäsittely",
+        "de": "LibreOffice Textverarbeitung"
+      }
+    },
+    "lmms": {
+      "type": 0,
+      "tags": [
+        "default",
+        "audio"
+      ],
+      "name": {
+        "en": "LMMS - music production suite",
+        "fi": "LMMS - musiikkityökalu",
+        "de": "LMMS - Software zur Musik-Produktion"
+      }
+    },
+    "LoggerPro": {
+      "type": 0,
+      "tags": [
+        "default"
+      ],
+      "name": {
+        "en": "LoggerPro",
+        "fi": "LoggerPro",
+        "sv": "LoggerPro",
+        "de": "LoggerPro"
+      },
+      "puavopkg_id": "vstloggerpro",
+      "puavopkg_state": -1,
+      "puavopkg_icon": null
+    },
+    "luola": {
+      "type": 0,
+      "tags": [
+        "default",
+        "game"
+      ]
+    },
+    "mafynetti": {
+      "type": 0,
+      "tags": [
+        "default",
+        "education"
+      ],
+      "name": {
+        "en": "Mafynetti",
+        "fi": "Mafynetti",
+        "sv": "Mafynetti",
+        "de": "Mafynetti"
+      },
+      "puavopkg_id": "mafynetti",
+      "puavopkg_state": -1,
+      "puavopkg_icon": null
+    },
+    "makecode": {
+      "type": 2,
+      "tags": [
+        "default",
+        "internet",
+        "education"
+      ],
+      "name": {
+        "en": "Makecode (Web)",
+        "fi": "Makecode (Web)",
+        "sv": "Makecode (Web)",
+        "de": "Makecode (Web)"
+      },
+      "description": {
+        "en": "Makecode -ohjelmointi",
+        "fi": "Makecode -ohjelmointi",
+        "sv": "Makecode -ohjelmointi",
+        "de": "Makecode -ohjelmointi"
+      },
+      "icon": "/usr/share/icons/Faenza/mimetypes/96/text-html.png",
+      "command": "https://makecode.mindstorms.com/"
+    },
+    "mandelbulber2": {
+      "type": 0,
+      "tags": [
+        "default",
+        "science",
+        "education"
+      ]
+    },
+    "MarvinSketch": {
+      "type": 0,
+      "tags": [
+        "default"
+      ],
+      "name": {
+        "en": "MarvinSketch",
+        "fi": "MarvinSketch",
+        "sv": "MarvinSketch",
+        "de": "MarvinSketch"
+      },
+      "puavopkg_id": "marvinsketch",
+      "puavopkg_state": -1,
+      "puavopkg_icon": null
+    },
+    "mathdemo-abitti": {
+      "type": 2,
+      "tags": [
+        "default",
+        "internet",
+        "education"
+      ],
+      "name": {
+        "en": "Abitin kaavaeditori",
+        "fi": "Abitin kaavaeditori",
+        "sv": "Abitin kaavaeditori",
+        "de": "Abitin kaavaeditori"
+      },
+      "description": {
+        "en": "Abitti Mathdemo-kaavaeditori",
+        "fi": "Abitti Mathdemo-kaavaeditori",
+        "sv": "Abitti Mathdemo-kaavaeditori",
+        "de": "Abitti Mathdemo-kaavaeditori"
+      },
+      "icon": "xournal",
+      "command": "https://math-demo.abitti.fi"
+    },
+    "MarvinView": {
+      "type": 0,
+      "tags": [
+        "default"
+      ]
+    },
+    "mimio-notebook": {
+      "type": 0,
+      "tags": [
+        "default"
+      ]
+    },
+    "minetest": {
+      "type": 0,
+      "tags": [
+        "default"
+      ]
+    },
+    "mousepad": {
+      "type": 0,
+      "tags": [
+        "default"
+      ]
+    },
+    "mscore3": {
+      "type": 0,
+      "tags": [
+        "default",
+        "audio"
+      ],
+      "name": {
+        "en": "MuseScore-music composition & notation",
+        "fi": "MuseScore-nuotinnusohjelma",
+        "sv": "MuseScore-notering",
+        "de": "Musik-Notensatz"
+      }
+    },
+    "musescore-appimage": {
+      "type": 0,
+      "tags": [
+        "default",
+        "audio"
+      ],
+      "name": {
+        "en": "MuseScore-music composition & notation",
+        "fi": "MuseScore-nuotinnusohjelma",
+        "sv": "MuseScore-notering",
+        "de": "Musik-Notensatz"
+      }
+    },
+    "mypaint": {
+      "type": 0,
+      "tags": [
+        "default",
+        "graphics"
+      ],
+      "icon": "/usr/share/icons/hicolor/48x48/apps/mypaint.png"
+    },
+    "netbeans": {
+      "type": 0,
+      "tags": [
+        "default"
+      ]
+    },
+    "net.sourceforge.liferea": {
+      "type": 0,
+      "tags": [
+        "default"
+      ]
+    },
+    "neverball": {
+      "type": 0,
+      "tags": [
+        "default"
+      ]
+    },
+    "neverputt": {
+      "type": 0,
+      "tags": [
+        "default"
+      ]
+    },
+    "nextcloud": {
+      "type": 0,
+      "tags": [
+        "default"
+      ]
+    },
+    "novo_desktop_streamer": {
+      "type": 1,
+      "tags": [
+        "default"
+      ],
+      "name": {
+        "en": "Novo Desktop Streamer",
+        "fi": "Novo Desktop Streamer",
+        "sv": "Novo Desktop Streamer",
+        "de": "Novo Desktop Streamer"
+      },
+      "description": {
+        "en": "Novo Desktop Streamer",
+        "fi": "Novo Desktop Streamer",
+        "sv": "Novo Desktop Streamer",
+        "de": "Novo Desktop Streamer"
+      },
+      "icon": "/opt/puavo-chromium-apps/novo_desktop_streamer/logo.png",
+      "command": "puavo-chromium-app run novo_desktop_streamer"
+    },
+    "novo-launcher": {
+      "type": 0,
+      "tags": [
+        "default"
+      ],
+      "name": {
+        "en": "LauncherOne",
+        "fi": "LauncherOne",
+        "sv": "LauncherOne",
+        "de": "LauncherOne"
+      },
+      "puavopkg_id": "launcherone",
+      "puavopkg_state": -1,
+      "puavopkg_icon": null
+    },
+    "obs": {
+      "type": 0,
+      "tags": [
+        "default"
+      ],
+      "icon": "/usr/share/icons/hicolor/256x256/apps/obs.png"
+    },
+    "onboard": {
+      "type": 0,
+      "tags": [
+        "default"
+      ]
+    },
+    "openboard": {
+      "type": 0,
+      "tags": [
+        "default",
+        "education"
+      ],
+      "name": {
+        "en": "OpenBoard",
+        "fi": "OpenBoard-älytauluohjelmisto",
+        "sv": "OpenBoard",
+        "de": "OpenBoard"
+      }
+    },
+    "openscad-nightly": {
+      "type": 0,
+      "tags": [
+        "default"
+      ],
+      "name": {
+        "en": "OpenSCAD",
+        "fi": "OpenSCAD",
+        "sv": "OpenSCAD",
+        "de": "OpenSCAD"
+      },
+      "puavopkg_id": "openscad-nightly",
+      "puavopkg_state": -1,
+      "puavopkg_icon": null
+    },
+    "openshot-qt": {
+      "type": 0,
+      "tags": [
+        "default"
+      ]
+    },
+    "openttd": {
+      "type": 0,
+      "tags": [
+        "default"
+      ]
+    },
+    "org.gnome.Calculator": {
+      "type": 0,
+      "tags": [
+        "default"
+      ]
+    },
+    "org.gnome.Cheese": {
+      "type": 0,
+      "tags": [
+        "default"
+      ]
+    },
+    "org.gnome.Epiphany": {
+      "type": 0,
+      "tags": [
+        "default"
+      ]
+    },
+    "org.gnome.Evince": {
+      "type": 0,
+      "tags": [
+        "default"
+      ],
+      "name": {
+        "en": "Evince-document viewer",
+        "fi": "Evince-asiakirjakatselin",
+        "sv": "Evince-dokumentläsare",
+        "de": "Evince Dokumentenbetrachter"
+      }
+    },
+    "org.gnome.Evolution": {
+      "type": 0,
+      "tags": [
+        "default"
+      ],
+      "name": {
+        "en": "Evolution-email",
+        "fi": "Evolution-sähköposti",
+        "sv": "Evolution-e-post",
+        "de": "Evolution-Email"
+      }
+    },
+    "org.gnome.FileRoller": {
+      "type": 0,
+      "tags": [
+        "default"
+      ]
+    },
+    "org.gnome.gedit": {
+      "type": 0,
+      "tags": [
+        "utility",
+        "default"
+      ],
+      "name": {
+        "en": "Gedit-text editor",
+        "fi": "Gedit-tekstieditori",
+        "sv": "Gedit-tekstredigerare",
+        "de": "Gedit-Texteditor"
+      },
+      "icon": "/usr/share/icons/Faenza/apps/96/accessories-text-editor.png"
+    },
+    "org.gnome.Goobox": {
+      "type": 0,
+      "tags": [
+        "default",
+        "audio"
+      ],
+      "icon": "/usr/share/icons/hicolor/48x48/apps/goobox.png"
+    },
+    "org.gnome.gThumb": {
+      "type": 0,
+      "tags": [
+        "default"
+      ],
+      "name": {
+        "en": "gThumb-image viewer",
+        "fi": "gThumb-kuvakatselin",
+        "sv": "gThumb-bildvisare",
+        "de": "gThumb-Bildbetrachter"
+      },
+      "icon": "/usr/share/icons/hicolor/scalable/apps/gthumb.svg"
+    },
+    "org.gnome.Nautilus": {
+      "type": 0,
+      "tags": [
+        "utility",
+        "default"
+      ],
+      "icon": "/usr/share/icons/Faenza/places/96/user-home.png"
+    },
+    "org.gnome.Screenshot": {
+      "type": 0,
+      "tags": [
+        "utility",
+        "default",
+        "graphics"
+      ]
+    },
+    "org.gnome.SoundJuicer": {
+      "type": 0,
+      "tags": [
+        "default"
+      ]
+    },
+    "org.gnome.Terminal": {
+      "type": 0,
+      "tags": [
+        "default"
+      ],
+      "keywords": [
+        "utility",
+        "terminal"
+      ]
+    },
+    "org.kde.gcompris": {
+      "type": 0,
+      "condition": "!personally_administered",
+      "tags": [
+        "default",
+        "education"
+      ],
+      "name": {
+        "en": "GCompris-educational software suite",
+        "fi": "GCompris-opetuspelit",
+        "sv": "GCompris-pedagogiksvit",
+        "de": "GCompris"
+      }
+    },
+    "org.kde.kaffeine": {
+      "type": 0,
+      "tags": [
+        "audiovideo",
+        "default"
+      ]
+    },
+    "org.kde.kalzium": {
+      "type": 0,
+      "tags": [
+        "default",
+        "science",
+        "education"
+      ],
+      "name": {
+        "en": "Kalzium-periodic system",
+        "fi": "Jaksollinen järjestelmä",
+        "sv": "Periodsystem",
+        "de": "Periodensystem"
+      },
+      "icon": "/usr/share/icons/hicolor/48x48/apps/kalzium.png"
+    },
+    "org.kde.kbruch": {
+      "type": 0,
+      "tags": [
+        "default"
+      ]
+    },
+    "org.kde.kcalc": {
+      "type": 0,
+      "tags": [
+        "default"
+      ]
+    },
+    "org.kde.kdenlive": {
+      "type": 0,
+      "tags": [
+        "default"
+      ]
+    },
+    "org.kde.kgeography": {
+      "type": 0,
+      "condition": "!personally_administered",
+      "tags": [
+        "default",
+        "science",
+        "education"
+      ],
+      "name": {
+        "en": "KGeography-geography",
+        "fi": "KGeography-maantieto",
+        "sv": "KGeography-geografi",
+        "de": "Kgeography"
+      }
+    },
+    "org.kde.khangman": {
+      "type": 0,
+      "tags": [
+        "default",
+        "education"
+      ],
+      "name": {
+        "en": "KHangMan",
+        "fi": "Hirsipuu"
+      },
+      "icon": "/usr/share/icons/hicolor/scalable/apps/khangman.svgz"
+    },
+    "org.kde.kmplot": {
+      "type": 0,
+      "tags": [
+        "default",
+        "education"
+      ],
+      "name": {
+        "en": "KmPlot-function plotter",
+        "fi": "KmPlot-kuvaajat",
+        "sv": "KmPlot",
+        "de": "KmPlot"
+      }
+    },
+    "org.kde.kolourpaint": {
+      "type": 0,
+      "tags": [
+        "default"
+      ]
+    },
+    "org.kde.krita": {
+      "type": 0,
+      "tags": [
+        "default"
+      ]
+    },
+    "org.kde.kstars": {
+      "type": 0,
+      "tags": [
+        "default",
+        "science",
+        "education"
+      ],
+      "name": {
+        "en": "KStars-astronomy",
+        "fi": "KStars-planetaario",
+        "sv": "KStars-stjärnhimlen",
+        "de": "KStars-Astronomie"
+      }
+    },
+    "org.kde.ktouch": {
+      "type": 0,
+      "tags": [
+        "default",
+        "education"
+      ],
+      "name": {
+        "en": "KTouch-touch typing",
+        "fi": "KTouch-konekirjoitus",
+        "sv": "KTouch-maskinskrivning",
+        "de": "KTouch-Schreibmaschine"
+      },
+      "description": {
+        "en": "Touch Typing Tutor",
+        "fi": "Konekirjoituksen ohjaaja",
+        "sv": "Maskinskrivningsträning",
+        "de": "Schreibmaschinenkurs"
+      },
+      "icon": "ktouch"
+    },
+    "org.kde.kturtle": {
+      "type": 0,
+      "tags": [
+        "default",
+        "education"
+      ],
+      "name": {
+        "en": "KTurtle - logo programming",
+        "fi": "KTurtle - logo-ohjelmointi",
+        "sv": "KTurtle - logoprogrammering",
+        "de": "KTurtle - Programieren mit Logo"
+      },
+      "icon": "/usr/share/icons/hicolor/64x64/apps/kturtle.png"
+    },
+    "org.kde.kwordquiz": {
+      "type": 0,
+      "tags": [
+        "default",
+        "education"
+      ],
+      "name": {
+        "en": "KWordQuiz-vocabulary learning",
+        "fi": "KWordQuiz-sanastoharjoitus",
+        "sv": "Ordförrådsövningar",
+        "de": "Kreuzworträtsel"
+      }
+    },
+    "org.kde.marble-qt": {
+      "type": 0,
+      "tags": [
+        "default",
+        "science",
+        "education"
+      ],
+      "name": {
+        "en": "Marble-virtual world",
+        "fi": "Marble-maapallo",
+        "sv": "Marble-jordglob",
+        "de": "Marble virtueller Globus"
+      }
+    },
+    "org.kde.okular": {
+      "type": 0,
+      "tags": [
+        "default",
+        "office"
+      ],
+      "keywords": [
+        "pdf"
+      ],
+      "name": {
+        "en": "Okular-document viewer",
+        "fi": "Okular-asiakirjakatselin",
+        "sv": "Okular-dokumentläsare",
+        "de": "Okular Dokumentenbetrachter"
+      }
+    },
+    "org.kde.step": {
+      "type": 0,
+      "tags": [
+        "default",
+        "science",
+        "education"
+      ],
+      "name": {
+        "en": "Step-physics simulator",
+        "fi": "Step-fysiikan simulaattori",
+        "sv": "Step-fysik simulator",
+        "de": "Step Physik Simulator"
+      }
+    },
+    "org.kde.tellico": {
+      "type": 0,
+      "tags": [
+        "default",
+        "office"
+      ],
+      "keywords": [
+        "tellico"
+      ],
+      "name": {
+        "en": "Tellico-collection manager",
+        "fi": "Kirjasto-ohjelma",
+        "sv": "Biblotek",
+        "de": "Tellico Sammlungs-Verwalter"
+      },
+      "icon": "/usr/share/icons/hicolor/64x64/apps/tellico.png"
+    },
+    "org.pitivi.Pitivi": {
+      "type": 0,
+      "tags": [
+        "default"
+      ]
+    },
+    "otava": {
+      "type": 2,
+      "tags": [
+        "default",
+        "education"
+      ],
+      "name": {
+        "en": "Otava - Oppilaan maailma",
+        "fi": "Otava - Oppilaan maailma",
+        "sv": "Otava - Oppilaan maailma",
+        "de": "Otava - Oppilaan maailma"
+      },
+      "icon": "/usr/share/icons/Faenza/mimetypes/96/text-html.png",
+      "command": "https://oppilas.otava.fi/"
+    },
+    "pahvi": {
+      "type": 2,
+      "tags": [
+        "default",
+        "education"
+      ],
+      "name": {
+        "en": "Pahvi",
+        "fi": "Pahvi",
+        "sv": "Pahvi",
+        "de": "Pahvi"
+      },
+      "icon": "/usr/share/icons/Faenza/mimetypes/96/text-html.png",
+      "command": "http://pahvidemo.opinsys.fi/"
+    },
+    "pavucontrol": {
+      "type": 0,
+      "tags": [
+        "default"
+      ]
+    },
+    "pedanet": {
+      "type": 2,
+      "tags": [
+        "default",
+        "education"
+      ],
+      "name": {
+        "en": "Peda.net",
+        "fi": "Peda.net",
+        "sv": "Peda.net",
+        "de": "Peda.net"
+      },
+      "icon": "/usr/share/icons/Faenza/mimetypes/96/text-html.png",
+      "command": "https://peda.net/:loginopinsys"
+    },
+    "perunakellari": {
+      "type": 2,
+      "tags": [
+        "default",
+        "education"
+      ],
+      "name": {
+        "en": "Perunakellarin harjoituksia",
+        "fi": "Perunakellarin harjoituksia",
+        "sv": "Perunakellarin harjoituksia",
+        "de": "Perunakellarin harjoituksia"
+      },
+      "description": {
+        "en": "Perunakellari",
+        "fi": "Perunakellari",
+        "sv": "Perunakellari",
+        "de": "Perunakellari"
+      },
+      "icon": "/usr/share/icons/Gion/48x48/categories/xfce-internet.png",
+      "command": "http://www.perunakellari.fi/ym.html#bi"
+    },
+    "phet": {
+      "type": 2,
+      "tags": [
+        "default",
+        "education"
+      ],
+      "name": {
+        "en": "PhET Simulations Web",
+        "fi": "PhET Simulations Web",
+        "sv": "PhET Simulations Web",
+        "de": "PhET Simulations Web"
+      },
+      "description": {
+        "en": "PhET physics simulations",
+        "fi": "PhET fysiikkasimulaatiot",
+        "sv": "PhET web",
+        "de": "PhET web"
+      },
+      "icon": "/usr/share/icons/Faenza/categories/96/applications-internet.png",
+      "command": "https://phet.colorado.edu/en/simulations/category/physics"
+    },
+    "pidgin": {
+      "type": 0,
+      "tags": [
+        "default"
+      ],
+      "name": {
+        "en": "Pidgin-chat client",
+        "fi": "Pidgin-pikaviestin",
+        "sv": "Pidgin-IM-klient",
+        "de": "Pidgin-Chat-Client"
+      }
+    },
+    "pinta": {
+      "type": 0,
+      "tags": [
+        "default",
+        "graphics"
+      ],
+      "name": {
+        "en": "Pinta",
+        "fi": "Pinta-kuvankäsittely",
+        "sv": "Pinta",
+        "de": "Pinta"
+      },
+      "icon": "/usr/share/icons/hicolor/scalable/apps/pinta.svg"
+    },
+    "primusclient": {
+      "type": 0,
+      "condition": "!personally_administered",
+      "tags": [
+        "default"
+      ]
+    },
+    "processing": {
+      "type": 0,
+      "tags": [
+        "default"
+      ],
+      "name": {
+        "en": "Processing",
+        "fi": "Processing",
+        "sv": "Processing",
+        "de": "Processing"
+      },
+      "puavopkg_id": "processing",
+      "puavopkg_state": -1,
+      "puavopkg_icon": null
+    },
+    "puavo-user-registration": {
+      "type": 0,
+      "condition": "user_registration",
+      "tags": [
+        "user_registration"
+      ]
+    },
+    "pycharm": {
+      "type": 0,
+      "tags": [
+        "default"
+      ],
+      "name": {
+        "en": "PyCharm",
+        "fi": "PyCharm",
+        "sv": "PyCharm",
+        "de": "PyCharm"
+      },
+      "puavopkg_id": "pycharm",
+      "puavopkg_state": -1,
+      "puavopkg_icon": null
+    },
+    "python-club": {
+      "type": 2,
+      "tags": [
+        "development",
+        "default",
+        "education"
+      ],
+      "name": {
+        "en": "Python Club",
+        "fi": "Python-klubi"
+      },
+      "icon": "/usr/share/icons/oxygen/base/64x64/categories/applications-internet.png",
+      "command": "http://www.teromakotero.fi/python-klubi/"
+    },
+    "qgis": {
+      "type": 0,
+      "tags": [
+        "default"
+      ]
+    },
+    "qjackctl": {
+      "type": 0,
+      "tags": [
+        "default"
+      ],
+      "name": {
+        "en": "JACK Control",
+        "fi": "JACK Control",
+        "sv": "JACK Control",
+        "de": "JACK Control"
+      },
+      "icon": "/usr/share/icons/hicolor/32x32/apps/qjackctl.png"
+    },
+    "qstopmotion": {
+      "type": 0,
+      "tags": [
+        "default"
+      ]
+    },
+    "qsynth": {
+      "type": 0,
+      "tags": [
+        "default"
+      ],
+      "name": {
+        "en": "FluidSynth GUI",
+        "fi": "FluidSynth GUI",
+        "sv": "FluidSynth GUI",
+        "de": "FluidSynth GUI"
+      },
+      "icon": "/usr/share/icons/hicolor/32x32/apps/qsynth.png"
+    },
+    "robboscratch2": {
+      "type": 0,
+      "tags": [
+        "default"
+      ],
+      "name": {
+        "en": "RobboScratch",
+        "fi": "RobboScratch",
+        "sv": "RobboScratch",
+        "de": "RobboScratch"
+      },
+      "puavopkg_id": "robboscratch2",
+      "puavopkg_state": -1,
+      "puavopkg_icon": null
+    },
+    "sanomapro": {
+      "type": 2,
+      "tags": [
+        "default",
+        "education"
+      ],
+      "name": {
+        "en": "SanomaPro",
+        "fi": "SanomaPro",
+        "sv": "SanomaPro",
+        "de": "SanomaPro"
+      },
+      "icon": "/usr/share/icons/Faenza/mimetypes/96/text-html.png",
+      "command": "http://sanomapro.fi/"
+    },
+    "school-user-list": {
+      "type": 2,
+      "condition": "only_teacher_admin",
+      "tags": [
+        "education"
+      ],
+      "name": {
+        "en": "School User List",
+        "fi": "Koulun käyttäjälista",
+        "sv": "Skolan användarlista",
+        "de": "Schulbenutzerliste"
+      },
+      "icon": "/usr/share/icons/Faenza/mimetypes/96/x-office-spreadsheet.png",
+      "command": "https://api.opinsys.fi/v3/my_school_users"
+    },
+    "scratch": {
+      "type": 0,
+      "tags": [
+        "default"
+      ]
+    },
+    "scratch3": {
+      "type": 2,
+      "tags": [
+        "default",
+        "education"
+      ],
+      "name": {
+        "en": "Scratch 3.0 (Web)",
+        "fi": "Scratch 3.0 (Web)",
+        "sv": "Scratch 3.0 (Web)",
+        "de": "Scratch 3.0 (Web)"
+      },
+      "icon": "/usr/share/icons/hicolor/128x128/apps/scratch.png",
+      "command": "https://scratch.mit.edu/projects/editor/"
+    },
+    "scratch-club": {
+      "type": 2,
+      "tags": [
+        "default",
+        "education"
+      ],
+      "name": {
+        "en": "Scratch Club",
+        "fi": "Scratch-klubi"
+      },
+      "icon": "/usr/share/icons/oxygen/base/64x64/categories/applications-internet.png",
+      "command": "http://www.teromakotero.fi/scratch-klubi/"
+    },
+    "scratux": {
+      "type": 0,
+      "tags": [
+        "default",
+        "education"
+      ],
+      "name": {
+        "en": "Scratux (Scratch 3 Offline)",
+        "fi": "Scratux (Scratch 3 Offline)",
+        "sv": "Scratux (Scratch 3 Offline)",
+        "de": "Scratux (Scratch 3 Offline)"
+      },
+      "icon": "/usr/share/icons/hicolor/96x96/apps/scratux.png"
+    },
+    "scribus": {
+      "type": 0,
+      "tags": [
+        "default",
+        "office"
+      ],
+      "name": {
+        "en": "Scribus-desktop publishing",
+        "fi": "Scribus-julkaisuohjelma",
+        "sv": "Scribus Layout",
+        "de": "Scribus Seitengestaltung"
+      }
+    },
+    "seahorse": {
+      "type": 0,
+      "tags": [
+        "default"
+      ]
+    },
+    "shotcut": {
+      "type": 0,
+      "tags": [
+        "default"
+      ]
+    },
+    "shotwell": {
+      "type": 0,
+      "tags": [
+        "default",
+        "graphics"
+      ],
+      "name": {
+        "en": "Shotwell-photo organizer",
+        "fi": "Shotwell-kuva-albumi",
+        "sv": "Shotwell-foto-album",
+        "de": "Shotwell Fotos verwalten"
+      }
+    },
+    "simple-scan": {
+      "type": 0,
+      "tags": [
+        "default",
+        "graphics"
+      ],
+      "name": {
+        "en": "Simple Scan",
+        "fi": "Yksinkertainen skannausohjelma",
+        "sv": "Enkelt scanningsverktyg",
+        "de": "Einfaches Scanner Werkzeug"
+      },
+      "icon": "/usr/share/icons/Faenza/devices/96/scanner.png"
+    },
+    "simplescreenrecorder": {
+      "type": 0,
+      "tags": [
+        "video",
+        "default",
+        "audiovideo"
+      ],
+      "name": {
+        "en": "SimpleScreenRecorder",
+        "fi": "Työpöytänauhoitus",
+        "sv": "SimpleScreenRecorder",
+        "de": "SimpleScreenRecorder"
+      }
+    },
+    "sketchup": {
+      "type": 2,
+      "tags": [
+        "default",
+        "graphics"
+      ],
+      "name": {
+        "en": "SketchUp Free (Web)",
+        "fi": "SketchUp Free (Web)",
+        "sv": "SketchUp Free (Web)",
+        "de": "SketchUp Free (Web)"
+      },
+      "icon": "/usr/share/icons/Faenza/apps/96/glade.png",
+      "command": "https://app.sketchup.com/app?hl=en"
+    },
+    "skype": {
+      "type": 0,
+      "tags": [
+        "default",
+        "network"
+      ],
+      "name": {
+        "en": "Skype",
+        "fi": "Skype",
+        "sv": "Skype",
+        "de": "Skype"
+      },
+      "icon": "/usr/share/icons/Faenza/apps/48/skype.png",
+      "puavopkg_id": "skype",
+      "puavopkg_state": -1,
+      "puavopkg_icon": null
+    },
+    "smarttech-notebook": {
+      "type": 0,
+      "tags": [
+        "default"
+      ],
+      "name": {
+        "en": "Notebook-ohjelmisto",
+        "fi": "Notebook-ohjelmisto",
+        "sv": "Notebook-ohjelmisto",
+        "de": "Notebook-ohjelmisto"
+      },
+      "puavopkg_id": "smartboard",
+      "puavopkg_state": -1,
+      "puavopkg_icon": null
+    },
+    "sol": {
+      "type": 0,
+      "tags": [
+        "default"
+      ]
+    },
+    "solfege": {
+      "type": 0,
+      "tags": [
+        "default",
+        "education"
+      ],
+      "name": {
+        "en": "Solfege-ear training program",
+        "fi": "Korvanharjoitus-ohjelma",
+        "sv": "Gehör-övningar",
+        "de": "Hörbildung"
+      }
+    },
+    "sphere_lite": {
+      "type": 1,
+      "tags": [
+        "default"
+      ],
+      "name": {
+        "en": "Sphere Lite",
+        "fi": "Sphere Lite",
+        "sv": "Sphere Lite",
+        "de": "Sphere Lite"
+      },
+      "description": {
+        "en": "View and annotate live video from AVer DocCam.",
+        "fi": "Sovellus jolla voit näyttää kuvaa AVer -dokumenttikameroista ja piirtää sen päälle.",
+        "sv": "Aver DocCam - Sphere lite.",
+        "de": "Aver DocCam - Sphere lite."
+      },
+      "icon": "/opt/puavo-chromium-apps/sphere_lite/logo.png",
+      "command": "puavo-chromium-app run sphere_lite"
+    },
+    "spe": {
+      "type": 0,
+      "tags": [
+        "default"
+      ],
+      "name": {
+        "en": "SPE - Python IDE",
+        "fi": "Stanin python-editori",
+        "sv": "Stanis python-editor",
+        "de": "Stanis Python IDE"
+      }
+    },
+    "speedcrunch": {
+      "type": 0,
+      "tags": [
+        "default"
+      ],
+      "icon": "/usr/share/pixmaps/speedcrunch.png"
+    },
+    "spelett": {
+      "type": 0,
+      "condition": "!personally_administered",
+      "tags": [
+        "default"
+      ]
+    },
+    "spotify": {
+      "type": 0,
+      "tags": [
+        "default"
+      ],
+      "name": {
+        "en": "Spotify",
+        "fi": "Spotify",
+        "sv": "Spotify",
+        "de": "Spotify"
+      },
+      "puavopkg_id": "spotify-client",
+      "puavopkg_state": -1,
+      "puavopkg_icon": null
+    },
+    "steam": {
+      "type": 0,
+      "tags": [
+        "steam"
+      ]
+    },
+    "stellarium": {
+      "type": 0,
+      "tags": [
+        "default",
+        "science",
+        "education"
+      ],
+      "name": {
+        "en": "Stellarium-planetarium",
+        "fi": "Stellarium-planetaario",
+        "sv": "Stellarium-planetarium",
+        "de": "Stellarium-Planetarium"
+      }
+    },
+    "sumopaint": {
+      "type": 2,
+      "tags": [
+        "default",
+        "graphics"
+      ],
+      "name": {
+        "en": "Sumopaint",
+        "fi": "Sumopaint",
+        "sv": "Sumopaint",
+        "de": "Sumopaint"
+      },
+      "description": {
+        "en": "Sumopaint-online graphics editor",
+        "fi": "Sumopaint-webkuvankäsittely",
+        "sv": "Sumopaint-bildbehandling",
+        "de": "Sumopaint Online Bildbearbeitung"
+      },
+      "icon": "/usr/share/icons/Faenza/apps/96/gimp.png",
+      "command": "http://www.sumopaint.com"
+    },
+    "supertuxkart": {
+      "type": 0,
+      "tags": [
+        "default"
+      ]
+    },
+    "system-config-printer": {
+      "type": 0,
+      "tags": [
+        "utility",
+        "default"
+      ],
+      "icon": "/usr/share/icons/Faenza/devices/48/printer.png"
+    },
+    "t-lasku": {
+      "type": 0,
+      "tags": [
+        "default"
+      ],
+      "name": {
+        "en": "T-Lasku",
+        "fi": "T-Lasku",
+        "sv": "T-Lasku",
+        "de": "T-Lasku"
+      },
+      "puavopkg_id": "t-lasku",
+      "puavopkg_state": -1,
+      "puavopkg_icon": null
+    },
+    "teams": {
+      "type": 0,
+      "tags": [
+        "default"
+      ],
+      "name": {
+        "en": "Teams",
+        "fi": "Teams",
+        "sv": "Teams",
+        "de": "Teams"
+      },
+      "puavopkg_id": "teams",
+      "puavopkg_state": -1,
+      "puavopkg_icon": null
+    },
+    "teddybear": {
+      "type": 0,
+      "tags": [
+        "development",
+        "default",
+        "education"
+      ],
+      "name": {
+        "en": "Teddy Bear programming",
+        "fi": "Nalle-ohjelmointi",
+        "sv": "Teddybjörn programmering",
+        "de": "Teddy-Programmierung"
+      },
+      "puavopkg_id": "teddybear",
+      "puavopkg_state": -1,
+      "puavopkg_icon": null
+    },
+    "thunderbird": {
+      "type": 0,
+      "tags": [
+        "default",
+        "network"
+      ],
+      "name": {
+        "en": "Thunderbird-email",
+        "fi": "Thunderbird-sähköposti",
+        "sv": "Thundebird-e-post",
+        "de": "Thunderbird-Email"
+      }
+    },
+    "ti_nspire_cx_cas_ss": {
+      "type": 0,
+      "tags": [
+        "default"
+      ],
+      "name": {
+        "en": "TI-Nspire CX Cas",
+        "fi": "TI-Nspire CX Cas",
+        "sv": "TI-Nspire CX Cas",
+        "de": "TI-Nspire CX Cas"
+      },
+      "puavopkg_id": "ti-nspire-cx-cas-ss",
+      "puavopkg_state": -1,
+      "puavopkg_icon": null
+    },
+    "tilitin": {
+      "type": 0,
+      "tags": [
+        "default"
+      ],
+      "name": {
+        "en": "Tilitin",
+        "fi": "Tilitin",
+        "sv": "Tilitin",
+        "de": "Tilitin"
+      },
+      "puavopkg_id": "tilitin",
+      "puavopkg_state": -1,
+      "puavopkg_icon": null
+    },
+    "tracker": {
+      "type": 0,
+      "tags": [
+        "default"
+      ]
+    },
+    "tuxguitar": {
+      "type": 0,
+      "tags": [
+        "default",
+        "audio"
+      ],
+      "name": {
+        "en": "TuxGuitar-multitrack tablature editor",
+        "fi": "Kitaranuotinnus",
+        "sv": "Noter för gitarr",
+        "de": "Tabulaturen für Gitarre"
+      },
+      "icon": "/opt/puavomenu/icons/overlord59-tux-guitar-1434.png"
+    },
+    "tuxmath": {
+      "type": 0,
+      "condition": "!personally_administered",
+      "tags": [
+        "default",
+        "education"
+      ],
+      "name": {
+        "en": "TuxMath-math game",
+        "fi": "TuxMath-matikkapeli",
+        "sv": "TuxMath-matematikspel",
+        "de": "Tuxmath Mathespiel"
+      },
+      "icon": "/usr/share/pixmaps/tuxmath.svg"
+    },
+    "tuxpaint": {
+      "type": 0,
+      "tags": [
+        "default",
+        "education",
+        "graphics"
+      ],
+      "name": {
+        "en": "Tuxpaint-drawing program",
+        "fi": "Tuxpaint-piirto-ohjelma",
+        "sv": "Tuxpaint",
+        "de": "Tuxpaint"
+      },
+      "icon": "/usr/share/icons/hicolor/48x48/apps/tuxpaint.png"
+    },
+    "unelmakoulu": {
+      "type": 2,
+      "tags": [
+        "default",
+        "education"
+      ],
+      "name": {
+        "en": "Unelmakoulu",
+        "fi": "Unelmakoulu",
+        "sv": "Unelmakoulu",
+        "de": "Unelmakoulu"
+      },
+      "icon": "/opt/puavomenu/icons/unelmakoulu.png",
+      "command": "http://dreamschool.fi"
+    },
+    "unityhub": {
+      "type": 0,
+      "condition": "personally_administered",
+      "tags": [
+        "default"
+      ]
+    },
+    "veracrypt": {
+      "type": 0,
+      "tags": [
+        "default"
+      ]
+    },
+    "VidyoDesktop": {
+      "type": 0,
+      "tags": [
+        "default"
+      ],
+      "name": {
+        "en": "VidyoDesktop",
+        "fi": "VidyoDesktop",
+        "sv": "VidyoDesktop",
+        "de": "VidyoDesktop"
+      },
+      "puavopkg_id": "vidyo-client",
+      "puavopkg_state": -1,
+      "puavopkg_icon": null
+    },
+    "vinagre": {
+      "type": 0,
+      "tags": [
+        "default"
+      ]
+    },
+    "viope": {
+      "type": 2,
+      "tags": [
+        "default",
+        "education"
+      ],
+      "name": {
+        "en": "Viope",
+        "fi": "Viope",
+        "sv": "Viope",
+        "de": "Viope"
+      },
+      "icon": "/usr/share/icons/Faenza/mimetypes/96/text-html.png",
+      "command": "https://www.viope.com/"
+    },
+    "vlc": {
+      "type": 0,
+      "tags": [
+        "default"
+      ]
+    },
+    "vym": {
+      "type": 0,
+      "tags": [
+        "default",
+        "education"
+      ],
+      "name": {
+        "en": "VYM-mindmap",
+        "fi": "Miellekarttasovellus",
+        "sv": "Mindmap",
+        "de": "Mindmap"
+      }
+    },
+    "walma": {
+      "type": 2,
+      "tags": [
+        "default",
+        "education"
+      ],
+      "keywords": [
+        "photoshop",
+        "toinen"
+      ],
+      "name": {
+        "en": "Walma",
+        "fi": "Walma",
+        "sv": "Walma",
+        "de": "Walma"
+      },
+      "description": {
+        "en": "Collaborative whiteboard",
+        "fi": "Yhteistoiminnallinen piirtotaulu",
+        "sv": "Kollaborativ whiteboard",
+        "de": "Mit dem Whiteboard zusammenarbeiten"
+      },
+      "icon": "/usr/share/icons/Faenza/mimetypes/96/text-html.png",
+      "command": "http://walmademo.opinsys.fi"
+    },
+    "wikipedia": {
+      "type": 2,
+      "tags": [
+        "default"
+      ],
+      "name": {
+        "en": "Wikipedia",
+        "fi": "Wikipedia",
+        "sv": "Wikipedia",
+        "de": "Wikipedia"
+      },
+      "icon": "/usr/share/icons/Faenza/apps/96/wikipedia.png",
+      "command": "https://www.wikipedia.org/"
+    },
+    "winff": {
+      "type": 0,
+      "tags": [
+        "video",
+        "default",
+        "audiovideo"
+      ],
+      "name": {
+        "en": "WinFF",
+        "fi": "WinFF-videomuunnin"
+      }
+    },
+    "xmoto": {
+      "type": 0,
+      "tags": [
+        "default",
+        "game"
+      ]
+    },
+    "xsane": {
+      "type": 0,
+      "tags": [
+        "default",
+        "graphics"
+      ]
+    },
+    "yleareena": {
+      "type": 2,
+      "tags": [
+        "audio",
+        "default",
+        "internet",
+        "video"
+      ],
+      "name": {
+        "en": "Yle Areena",
+        "fi": "Yle Areena",
+        "sv": "Yle Areena",
+        "de": "Yle Areena"
+      },
+      "icon": "/usr/share/icons/Faenza/apps/96/me-tv.png",
+      "command": "http://areena.yle.fi"
+    },
+    "yleareenaetaopetus": {
+      "type": 2,
+      "tags": [
+        "default",
+        "internet",
+        "education"
+      ],
+      "keywords": [
+        "etä",
+        "etäopetus",
+        "distance",
+        "remote",
+        "etätyö"
+      ],
+      "name": {
+        "en": "YLE Areena - Etäopetus",
+        "fi": "YLE Areena - Etäopetus",
+        "sv": "YLE Areena - Etäopetus",
+        "de": "YLE Areena - Etäopetus"
+      },
+      "description": {
+        "en": "YLE Areenan materiaaleja etäopetukseen",
+        "fi": "YLE Areenan materiaaleja etäopetukseen",
+        "sv": "YLE Areenan materiaaleja etäopetukseen",
+        "de": "YLE Areenan materiaaleja etäopetukseen"
+      },
+      "icon": "/usr/share/icons/Faenza/apps/96/me-tv.png",
+      "command": "https://areena.yle.fi/tv/ohjelmat/57-6AXjXXPdl"
+    },
+    "ylearkisto": {
+      "type": 2,
+      "tags": [
+        "audio",
+        "default",
+        "internet",
+        "video"
+      ],
+      "name": {
+        "en": "Yle - Elävä arkisto",
+        "fi": "Yle - Elävä arkisto",
+        "sv": "Yle - Elävä arkisto",
+        "de": "Yle - Elävä arkisto"
+      },
+      "icon": "/usr/share/icons/Faenza/apps/96/me-tv.png",
+      "command": "http://yle.fi/elavaarkisto/index.html"
+    },
+    "youtube": {
+      "type": 2,
+      "tags": [
+        "audio",
+        "default",
+        "internet",
+        "video"
+      ],
+      "name": {
+        "en": "YouTube",
+        "fi": "YouTube",
+        "sv": "YouTube",
+        "de": "YouTube"
+      },
+      "icon": "/usr/share/icons/Faenza/apps/96/youtube.png",
+      "command": "https://youtube.com"
+    },
+    "Zoom": {
+      "type": 0,
+      "tags": [
+        "default",
+        "internet"
+      ],
+      "description": {
+        "en": "Video conference application",
+        "fi": "Videokonferenssisovellus",
+        "sv": "Zoom videokonferens",
+        "de": "Zoom Videokonferenz"
+      }
+    }
+  },
+  "menus": {
+    "menu-applications": {
+      "name": {
+        "en": "Applications",
+        "fi": "Apuohjelmat",
+        "sv": "Verktyg",
+        "de": "Werkzeuge"
+      },
+      "icon": "/usr/share/icons/Faenza/categories/48/applications-accessories.png",
+      "programs": [
+        "org.gnome.Calculator",
+        "speedcrunch",
+        "org.gnome.gedit",
+        "mousepad",
+        "gucharmap",
+        "onboard",
+        "brasero",
+        "org.gnome.SoundJuicer",
+        "org.gnome.FileRoller",
+        "org.gnome.Terminal",
+        "gftp",
+        "filezilla",
+        "seahorse",
+        "veracrypt",
+        "system-config-printer",
+        "pavucontrol",
+        "org.gnome.Screenshot",
+        "simplescreenrecorder",
+        "airtame",
+        "novo-launcher",
+        "novo_desktop_streamer"
+      ]
+    },
+    "menu-graphics": {
+      "name": {
+        "en": "Graphics",
+        "fi": "Grafiikka",
+        "sv": "Grafik",
+        "de": "Grafik"
+      },
+      "description": {
+        "en": "Graphics applications",
+        "fi": "Piirto- ja kuvankäsittelyohjelmia",
+        "sv": "Ritprogram",
+        "de": "Grafikprogramme"
+      },
+      "icon": "/usr/share/icons/Faenza/categories/48/applications-painting.png",
+      "programs": [
+        "org.kde.kolourpaint",
+        "org.kde.krita",
+        "tuxpaint",
+        "mypaint",
+        "gimp",
+        "pinta",
+        "org.gnome.gThumb",
+        "eog",
+        "shotwell",
+        "inkscape",
+        "simple-scan",
+        "xsane",
+        "blender",
+        "cura-appimage",
+        "sketchup",
+        "freecad",
+        "openscad-nightly",
+        "FlashPrint"
+      ]
+    },
+    "menu-internet": {
+      "name": {
+        "en": "Internet",
+        "fi": "Internet",
+        "sv": "Internet",
+        "de": "Internet"
+      },
+      "description": {
+        "en": "Internet-applications",
+        "fi": "Internet-sovellukset",
+        "sv": "Internet-program",
+        "de": "Internet Programme"
+      },
+      "icon": "/usr/share/icons/Faenza/categories/48/applications-internet.png",
+      "programs": [
+        "firefox",
+        "chromium",
+        "google-chrome",
+        "org.gnome.Epiphany",
+        "thunderbird",
+        "org.gnome.Evolution",
+        "google-earth",
+        "discord",
+        "jitsi",
+        "skype",
+        "teams",
+        "Zoom",
+        "google-meet",
+        "dropbox",
+        "nextcloud",
+        "empathy",
+        "pidgin",
+        "gftp",
+        "filezilla",
+        "net.sourceforge.liferea",
+        "vinagre",
+        "VidyoDesktop"
+      ]
+    },
+    "menu-programming": {
+      "name": {
+        "en": "Programming",
+        "fi": "Ohjelmointi",
+        "sv": "Programmering",
+        "de": "Programmierung"
+      },
+      "description": {
+        "en": "Programming environments",
+        "fi": "Ohjelmointiympäristöjä"
+      },
+      "icon": "/usr/share/icons/Faenza/categories/48/gnome-devel.png",
+      "programs": [
+        "arduino",
+        "asebastudiothymio",
+        "fritzing",
+        "teddybear",
+        "drracket",
+        "enchanting",
+        "makecode",
+        "bluegriffon",
+        "eclipse-cpp",
+        "eclipse-java",
+        "eclipse-javascript",
+        "eclipse-php",
+        "eric6",
+        "pycharm",
+        "spe",
+        "idle-python2.7",
+        "idle-python3.7",
+        "geany",
+        "org.kde.kturtle",
+        "scratch",
+        "scratux",
+        "scratch3",
+        "bluefish",
+        "designer-qt4",
+        "processing",
+        "robboscratch2",
+        "appinventor",
+        "kojo",
+        "Nightcode",
+        "netbeans"
+      ]
+    },
+    "menu-education": {
+      "name": {
+        "en": "Education",
+        "fi": "Opetusohjelmat",
+        "sv": "Undervisningsprogram",
+        "de": "Bildung"
+      },
+      "description": {
+        "en": "Educational applications",
+        "fi": "Sovelluksia oppimisen tueksi",
+        "sv": "Pedagogiska program",
+        "de": "Bildungs Programme"
+      },
+      "icon": "/usr/share/icons/Faenza/categories/48/applications-games.png",
+      "programs": [
+        "ekapeli",
+        "spelett",
+        "ekapeli-maahanmuuttaja",
+        "ekapeli-alku",
+        "db_koulu1",
+        "db_koulu2",
+        "org.kde.gcompris",
+        "tuxmath",
+        "org.kde.kbruch",
+        "geogebra",
+        "geogebra6",
+        "org.kde.kmplot",
+        "mafynetti",
+        "org.kde.marble-qt",
+        "google-earth",
+        "org.kde.kgeography",
+        "org.kde.kwordquiz",
+        "org.kde.khangman",
+        "org.kde.ktouch",
+        "celestia",
+        "stellarium",
+        "org.kde.kstars",
+        "org.kde.step",
+        "tracker",
+        "LoggerPro",
+        "GlobiLab",
+        "io.github.wxmaxima_developers.wxMaxima",
+        "ti_nspire_cx_cas_ss",
+        "avogadro",
+        "org.kde.kalzium",
+        "MarvinSketch",
+        "MarvinView",
+        "mandelbulber2",
+        "qgis",
+        "anki"
+      ]
+    },
+    "menu-office": {
+      "name": {
+        "en": "Office",
+        "fi": "Toimisto",
+        "sv": "Kontor",
+        "de": "Büro"
+      },
+      "description": {
+        "en": "Office applications",
+        "fi": "Toimisto-ohjelmat",
+        "sv": "Kontorsprogram",
+        "de": "Büroprogramme"
+      },
+      "icon": "/usr/share/icons/Faenza/categories/48/applications-office.png",
+      "programs": [
+        "libreoffice-writer",
+        "libreoffice-calc",
+        "libreoffice-impress",
+        "libreoffice-draw",
+        "libreoffice-base",
+        "libreoffice-math",
+        "scribus",
+        "vym",
+        "cmaptools",
+        "acroread",
+        "org.kde.okular",
+        "org.gnome.Evince",
+        "calibre-gui",
+        "org.kde.tellico",
+        "openboard",
+        "primusclient",
+        "dia",
+        "tilitin",
+        "t-lasku"
+      ]
+    },
+    "menu-audio": {
+      "name": {
+        "en": "Audio and video",
+        "fi": "Ääni ja video",
+        "sv": "Ljud och Video",
+        "de": "Audio und Video"
+      },
+      "icon": "/usr/share/icons/Faenza/categories/48/applications-multimedia.png",
+      "programs": [
+        "audacity",
+        "org.gnome.Goobox",
+        "vlc",
+        "org.kde.kaffeine",
+        "spotify",
+        "org.gnome.Cheese",
+        "kenavision",
+        "kamerka",
+        "elmo-imagemate",
+        "sphere_lite",
+        "obs",
+        "openshot-qt",
+        "org.kde.kdenlive",
+        "kino",
+        "org.pitivi.Pitivi",
+        "shotcut",
+        "solfege",
+        "mscore3",
+        "hydrogen",
+        "lmms",
+        "com.rosegardenmusic.rosegarden",
+        "tuxguitar",
+        "fmit",
+        "qstopmotion",
+        "qsynth",
+        "qjackctl",
+        "winff"
+      ]
+    },
+    "menu-games": {
+      "condition": "!personally_administered",
+      "name": {
+        "en": "Games",
+        "fi": "Pelit",
+        "sv": "Spel",
+        "de": "Spiele"
+      },
+      "icon": "/usr/share/icons/Faenza/categories/48/applications-cardgames.png",
+      "programs": [
+        "gnome-klotski",
+        "gnome-mines",
+        "gnome-mahjongg",
+        "sol",
+        "gnome-sudoku",
+        "luola",
+        "openttd",
+        "gnubg",
+        "freeciv-gtk2",
+        "minetest"
+      ]
+    },
+    "menu-games-personal": {
+      "condition": "personally_administered",
+      "name": {
+        "en": "Games",
+        "fi": "Pelit",
+        "sv": "Spel",
+        "de": "Spiele"
+      },
+      "icon": "/usr/share/icons/Faenza/categories/48/applications-cardgames.png",
+      "programs": [
+        "gnome-klotski",
+        "gnome-mines",
+        "gnome-mahjongg",
+        "sol",
+        "gnome-sudoku",
+        "supertuxkart",
+        "neverball",
+        "neverputt",
+        "luola",
+        "openttd",
+        "xmoto",
+        "steam",
+        "gnubg",
+        "freeciv-gtk2",
+        "minetest"
+      ]
+    },
+    "menu-abitti": {
+      "name": {
+        "en": "Abitti-applications",
+        "fi": "Abitti-sovellukset",
+        "sv": "Abitti-applikationer",
+        "de": "Prüfungsumgebung"
+      },
+      "description": {
+        "en": "Programs for Grading Environment",
+        "fi": "Kokoelma Abitti-koeympäristössä käytettäviä sovelluksia",
+        "de": "Programme der Prüfungsumgebung"
+      },
+      "icon": "/usr/share/icons/oxygen/base/48x48/categories/applications-education.png",
+      "programs": [
+        "gimp",
+        "pinta",
+        "inkscape",
+        "geogebra",
+        "geogebra6",
+        "io.github.wxmaxima_developers.wxMaxima",
+        "org.kde.kcalc",
+        "speedcrunch",
+        "ti_nspire_cx_cas_ss",
+        "LoggerPro",
+        "dia",
+        "mousepad",
+        "libreoffice-writer",
+        "libreoffice-calc",
+        "libreoffice-impress",
+        "libreoffice-draw",
+        "libreoffice-base",
+        "libreoffice-math"
+      ]
+    },
+    "menu-whiteboards": {
+      "condition": "!personally_administered",
+      "name": {
+        "en": "Interactive\nwhiteboards",
+        "fi": "Älytaulut",
+        "sv": "Interaktiva tavlor",
+        "de": "Interaktive Tafeln"
+      },
+      "icon": "/usr/share/icons/Faenza/categories/96/applications-science.png",
+      "programs": [
+        "smarttech-notebook",
+        "openboard",
+        "mimio-notebook"
+      ]
+    },
+    "menu-web": {
+      "name": {
+        "en": "Web applications",
+        "fi": "Web-sovellukset",
+        "sv": "Web applikationer",
+        "de": "Web Anwendungen"
+      },
+      "icon": "/usr/share/icons/Gion/48x48/categories/xfce-internet.png",
+      "programs": [
+        "youtube",
+        "wikipedia",
+        "yleareena",
+        "yleareenaetaopetus",
+        "ylearkisto",
+        "mathdemo-abitti",
+        "makecode",
+        "kahoot",
+        "sanomapro",
+        "otava",
+        "edison",
+        "unelmakoulu",
+        "pedanet",
+        "viope"
+      ]
+    },
+    "menu-physics": {
+      "name": {
+        "en": "Physics",
+        "fi": "Fysiikka",
+        "de": "Physik"
+      },
+      "icon": "/usr/share/icons/hicolor/64x64/apps/step.png",
+      "programs": [
+        "org.kde.step",
+        "tracker",
+        "LoggerPro",
+        "libreoffice-writer",
+        "phet",
+        "youtube"
+      ]
+    },
+    "menu-chemistry": {
+      "name": {
+        "en": "Chemistry",
+        "fi": "Kemia",
+        "de": "Chemie"
+      },
+      "icon": "/usr/share/icons/hicolor/48x48/apps/kalzium.png",
+      "programs": [
+        "avogadro",
+        "MarvinSketch",
+        "MarvinView",
+        "org.kde.kalzium",
+        "LoggerPro",
+        "libreoffice-writer",
+        "kahoot",
+        "youtube"
+      ]
+    },
+    "menu-mathematics": {
+      "name": {
+        "en": "Mathematics",
+        "fi": "Matematiikka",
+        "de": "Mathematik"
+      },
+      "icon": "/usr/share/icons/Faenza/categories/64/applications-interfacedesign.png",
+      "programs": [
+        "tuxmath",
+        "org.kde.kbruch",
+        "geogebra",
+        "geogebra6",
+        "org.kde.kmplot",
+        "org.gnome.Calculator",
+        "mathdemo-abitti",
+        "teddybear",
+        "scratch",
+        "scratux",
+        "scratch-club",
+        "python-club",
+        "arduino",
+        "libreoffice-calc",
+        "libreoffice-math",
+        "libreoffice-writer",
+        "io.github.wxmaxima_developers.wxMaxima",
+        "kahoot",
+        "youtube"
+      ]
+    },
+    "menu-geography": {
+      "name": {
+        "en": "Geography",
+        "fi": "Maantieto",
+        "de": "Geografie"
+      },
+      "icon": "/usr/share/tuxpaint/stamps/space/planets/3_earth.png",
+      "programs": [
+        "org.kde.marble-qt",
+        "google-earth",
+        "org.kde.kgeography",
+        "celestia",
+        "stellarium",
+        "org.kde.kstars",
+        "qgis",
+        "libreoffice-writer",
+        "kahoot",
+        "youtube"
+      ]
+    },
+    "menu-environment": {
+      "name": {
+        "en": "Environmental Science",
+        "fi": "Ympäristöoppi",
+        "de": "Umweltwissenschaften"
+      },
+      "icon": "/usr/share/icons/Faenza/apps/64/tracker.png",
+      "programs": [
+        "org.kde.marble-qt",
+        "google-earth",
+        "org.kde.kgeography",
+        "celestia",
+        "stellarium",
+        "org.kde.kstars",
+        "libreoffice-writer",
+        "kahoot",
+        "youtube"
+      ]
+    },
+    "menu-biology": {
+      "name": {
+        "en": "Biology",
+        "fi": "Biologia",
+        "de": "Biologie"
+      },
+      "icon": "/opt/puavomenu/icons/applications-biology.svg",
+      "programs": [
+        "perunakellari",
+        "libreoffice-writer",
+        "kahoot",
+        "youtube"
+      ]
+    },
+    "menu-socialsciences": {
+      "name": {
+        "en": "Social Sciences",
+        "fi": "Yhteiskuntaoppi",
+        "de": "Sozialwissenschaften"
+      },
+      "icon": "/usr/share/icons/Faenza/emblems/64/emblem-sales.png",
+      "programs": [
+        "ekapeli",
+        "ekapeli-maahanmuuttaja",
+        "ekapeli-alku",
+        "google-earth",
+        "ylearkisto",
+        "libreoffice-writer",
+        "kahoot",
+        "youtube"
+      ]
+    },
+    "menu-history": {
+      "name": {
+        "en": "History",
+        "fi": "Historia",
+        "de": "Geschichte"
+      },
+      "icon": "/usr/share/icons/hicolor/128x128/apps/freeciv-client.png",
+      "programs": [
+        "org.kde.marble-qt",
+        "google-earth",
+        "ylearkisto",
+        "libreoffice-writer",
+        "kahoot",
+        "youtube"
+      ]
+    },
+    "menu-literature": {
+      "name": {
+        "en": "English and literature",
+        "fi": "Äidinkieli ja kirjallisuus",
+        "de": "Englisch"
+      },
+      "icon": "/usr/share/icons/Faenza/apps/64/gnome-dictionary.png",
+      "programs": [
+        "ekapeli",
+        "ekapeli-maahanmuuttaja",
+        "ekapeli-alku",
+        "libreoffice-writer",
+        "org.kde.gcompris",
+        "org.kde.khangman",
+        "org.kde.kwordquiz",
+        "org.kde.ktouch",
+        "libreoffice-impress",
+        "ylearkisto",
+        "kahoot",
+        "youtube"
+      ]
+    },
+    "menu-languages": {
+      "name": {
+        "en": "Foreign languages",
+        "fi": "Vieraat kielet",
+        "de": "Muttersprache"
+      },
+      "icon": "/usr/share/icons/oxygen/base/64x64/categories/applications-education-language.png",
+      "programs": [
+        "libreoffice-writer",
+        "org.kde.kwordquiz",
+        "org.kde.khangman",
+        "kahoot",
+        "youtube"
+      ]
+    },
+    "menu-foreign": {
+      "name": {
+        "en": "Foreign languages",
+        "fi": "Toinen kotimainen",
+        "de": "Fremdsprachen"
+      },
+      "icon": "/usr/share/icons/Faenza/apps/64/config-language.png",
+      "programs": [
+        "ekapeli",
+        "ekapeli-maahanmuuttaja",
+        "ekapeli-alku",
+        "libreoffice-writer",
+        "org.kde.kwordquiz",
+        "org.kde.khangman",
+        "kahoot",
+        "youtube"
+      ]
+    },
+    "menu-music": {
+      "name": {
+        "en": "Music",
+        "fi": "Musiikki",
+        "de": "Musik"
+      },
+      "icon": "/usr/share/icons/Faenza/apps/64/gmusicbrowser.png",
+      "programs": [
+        "audacity",
+        "solfege",
+        "hydrogen",
+        "lmms",
+        "mscore3",
+        "spotify",
+        "libreoffice-writer",
+        "kahoot",
+        "youtube"
+      ]
+    },
+    "menu-crafts": {
+      "name": {
+        "en": "Handicrafts",
+        "fi": "Käsityö",
+        "de": "Gestalten"
+      },
+      "icon": "/usr/share/icons/Neu/128x128/categories/kcontrol.png",
+      "programs": [
+        "pinta",
+        "gimp",
+        "inkscape",
+        "sumopaint",
+        "fritzing",
+        "arduino",
+        "teddybear",
+        "libreoffice-writer",
+        "kahoot",
+        "youtube"
+      ]
+    },
+    "menu-arts": {
+      "name": {
+        "en": "Arts",
+        "fi": "Kuvataide",
+        "de": "Kunst"
+      },
+      "icon": "/usr/share/icons/Faenza/apps/64/mypaint.png",
+      "programs": [
+        "tuxpaint",
+        "org.kde.kolourpaint",
+        "org.kde.krita",
+        "mypaint",
+        "pinta",
+        "gimp",
+        "inkscape",
+        "sumopaint",
+        "simple-scan",
+        "libreoffice-writer",
+        "kahoot",
+        "youtube"
+      ]
+    },
+    "menu-counseling": {
+      "name": {
+        "en": "Student counseling",
+        "fi": "Oppilaanohjaus",
+        "de": "Schülerberatung"
+      },
+      "icon": "/usr/share/icons/oxygen/base/128x128/apps/system-users.png",
+      "programs": [
+        "libreoffice-writer",
+        "kahoot",
+        "youtube"
+      ]
+    },
+    "menu-econ": {
+      "name": {
+        "en": "Home economics",
+        "fi": "Kotitalous",
+        "de": "Wirtschaft"
+      },
+      "icon": "/opt/puavomenu/icons/applications-java.svg",
+      "programs": [
+        "libreoffice-writer",
+        "amme",
+        "kahoot",
+        "youtube"
+      ]
+    },
+    "menu-sports": {
+      "name": {
+        "en": "Sports",
+        "fi": "Liikunta",
+        "de": "Sport"
+      },
+      "icon": "/opt/puavomenu/icons/applications-sports.svg",
+      "programs": [
+        "libreoffice-writer",
+        "google-earth",
+        "kahoot",
+        "youtube"
+      ]
+    },
+    "menu-health": {
+      "name": {
+        "en": "Health",
+        "fi": "Terveystieto",
+        "de": "Gesundheit"
+      },
+      "icon": "/usr/share/icons/gnome/48x48/emblems/emblem-favorite.png",
+      "programs": [
+        "libreoffice-writer",
+        "google-earth",
+        "kahoot",
+        "youtube"
+      ]
+    },
+    "menu-ethics": {
+      "name": {
+        "en": "Ethics",
+        "fi": "Elämänkatsomustieto",
+        "de": "Ethik"
+      },
+      "icon": "/usr/share/icons/oxygen/base/64x64/status/meeting-participant.png",
+      "programs": [
+        "libreoffice-writer",
+        "kahoot",
+        "youtube"
+      ]
+    },
+    "menu-religion": {
+      "name": {
+        "en": "Religion",
+        "fi": "Uskonto",
+        "de": "Religion"
+      },
+      "icon": "/usr/share/icons/oxygen/base/64x64/places/user-identity.png",
+      "programs": [
+        "libreoffice-writer",
+        "ylearkisto",
+        "kahoot",
+        "youtube"
+      ]
+    }
+  },
+  "categories": {
+    "category-main": {
+      "name": {
+        "en": "All programs",
+        "fi": "Kaikki ohjelmat",
+        "sv": "Alla program",
+        "de": "Alle Programme"
+      },
+      "position": "0",
+      "menus": [
+        "menu-applications",
+        "menu-graphics",
+        "menu-internet",
+        "menu-programming",
+        "menu-education",
+        "menu-office",
+        "menu-audio",
+        "menu-games",
+        "menu-games-personal",
+        "menu-abitti",
+        "menu-whiteboards",
+        "menu-web"
+      ],
+      "programs": [
+        "org.gnome.Nautilus",
+        "school-user-list"
+      ]
+    },
+    "category-subjects": {
+      "name": {
+        "en": "Subjects",
+        "fi": "Oppiaineet",
+        "sv": "Ämnen",
+        "de": "Fächer"
+      },
+      "position": "10",
+      "menus": [
+        "menu-physics",
+        "menu-chemistry",
+        "menu-mathematics",
+        "menu-geography",
+        "menu-environment",
+        "menu-biology",
+        "menu-socialsciences",
+        "menu-history",
+        "menu-literature",
+        "menu-languages",
+        "menu-foreign",
+        "menu-music",
+        "menu-crafts",
+        "menu-arts",
+        "menu-counseling",
+        "menu-econ",
+        "menu-sports",
+        "menu-health",
+        "menu-ethics",
+        "menu-religion"
+      ]
+    }
+  }
+}

@@ -1,0 +1,273 @@
+{
+  "programs": {
+    "google-calendar": {
+      "type": 2,
+      "tags": [
+        "default",
+        "internet",
+        "education"
+      ],
+      "name": {
+        "en": "Google Calendar",
+        "fi": "Google Calendar",
+        "sv": "Google Calendar",
+        "de": "Google Calendar"
+      },
+      "description": {
+        "en": "Google Calendar",
+        "fi": "Google Calendar",
+        "sv": "Google Calendar",
+        "de": "Google Calendar"
+      },
+      "icon": "gnome-calendar",
+      "command": "https://calendar.google.com"
+    },
+    "google-classroom": {
+      "type": 2,
+      "tags": [
+        "default",
+        "internet",
+        "education"
+      ],
+      "name": {
+        "en": "Google Classroom",
+        "fi": "Google Classroom",
+        "sv": "Google Classroom",
+        "de": "Google Classroom"
+      },
+      "description": {
+        "en": "Google Classroom",
+        "fi": "Google Classroom",
+        "sv": "Google Classroom",
+        "de": "Google Classroom"
+      },
+      "icon": "google-chrome",
+      "command": "https://classroom.google.com/?emr=0"
+    },
+    "google-docs": {
+      "type": 2,
+      "tags": [
+        "default",
+        "internet",
+        "education"
+      ],
+      "name": {
+        "en": "Google Docs",
+        "fi": "Google Docs",
+        "sv": "Google Docs",
+        "de": "Google Docs"
+      },
+      "description": {
+        "en": "Google Docs",
+        "fi": "Google Docs",
+        "sv": "Google Docs",
+        "de": "Google Docs"
+      },
+      "icon": "gnome-word",
+      "command": "https://docs.google.com"
+    },
+    "google-drive": {
+      "type": 2,
+      "tags": [
+        "default",
+        "internet",
+        "education"
+      ],
+      "name": {
+        "en": "Google Drive",
+        "fi": "Google Drive",
+        "sv": "Google Drive",
+        "de": "Google Drive"
+      },
+      "description": {
+        "en": "Google Drive",
+        "fi": "Google Drive",
+        "sv": "Google Drive",
+        "de": "Google Drive"
+      },
+      "icon": "google",
+      "command": "https://drive.google.com"
+    },
+    "google-forms": {
+      "type": 2,
+      "tags": [
+        "default",
+        "internet",
+        "education"
+      ],
+      "name": {
+        "en": "Google Forms",
+        "fi": "Google Forms",
+        "sv": "Google Forms",
+        "de": "Google Forms"
+      },
+      "description": {
+        "en": "Google Forms",
+        "fi": "Google Forms",
+        "sv": "Google Forms",
+        "de": "Google Forms"
+      },
+      "icon": "gnome-documents",
+      "command": "https://forms.google.com"
+    },
+    "google-keep": {
+      "type": 2,
+      "tags": [
+        "default",
+        "internet",
+        "education"
+      ],
+      "name": {
+        "en": "Google Keep",
+        "fi": "Google Keep",
+        "sv": "Google Keep",
+        "de": "Google Keep"
+      },
+      "description": {
+        "en": "Google Keep",
+        "fi": "Google Keep",
+        "sv": "Google Keep",
+        "de": "Google Keep"
+      },
+      "icon": "gnote",
+      "command": "https://keep.google.com"
+    },
+    "google-meet": {
+      "type": 2,
+      "tags": [
+        "default",
+        "internet",
+        "education"
+      ],
+      "name": {
+        "en": "Google Meet",
+        "fi": "Google Meet",
+        "sv": "Google Meet",
+        "de": "Google Meet"
+      },
+      "description": {
+        "en": "Google Meet",
+        "fi": "Google Meet",
+        "sv": "Google Meet",
+        "de": "Google Meet"
+      },
+      "icon": "config-users",
+      "command": "https://meet.google.com"
+    },
+    "google-sheets": {
+      "type": 2,
+      "tags": [
+        "default",
+        "internet",
+        "education"
+      ],
+      "name": {
+        "en": "Google Sheets",
+        "fi": "Google Sheets",
+        "sv": "Google Sheets",
+        "de": "Google Sheets"
+      },
+      "description": {
+        "en": "Google Sheets",
+        "fi": "Google Sheets",
+        "sv": "Google Sheets",
+        "de": "Google Sheets"
+      },
+      "icon": "gnumeric",
+      "command": "https://sheets.google.com"
+    },
+    "google-sites": {
+      "type": 2,
+      "tags": [
+        "default",
+        "internet",
+        "education"
+      ],
+      "name": {
+        "en": "Google Sites",
+        "fi": "Google Sites",
+        "sv": "Google Sites",
+        "de": "Google Sites"
+      },
+      "description": {
+        "en": "Google Sites",
+        "fi": "Google Sites",
+        "sv": "Google Sites",
+        "de": "Google Sites"
+      },
+      "icon": "google",
+      "command": "https://sites.google.com"
+    },
+    "google-slides": {
+      "type": 2,
+      "tags": [
+        "default",
+        "internet",
+        "education"
+      ],
+      "name": {
+        "en": "Google Slides",
+        "fi": "Google Slides",
+        "sv": "Google Slides",
+        "de": "Google Slides"
+      },
+      "description": {
+        "en": "Google Slides",
+        "fi": "Google Slides",
+        "sv": "Google Slides",
+        "de": "Google Slides"
+      },
+      "icon": "google",
+      "command": "https://slides.google.com"
+    },
+    "gmail": {
+      "type": 2,
+      "tags": [
+        "default",
+        "internet",
+        "education"
+      ],
+      "name": {
+        "en": "GMail",
+        "fi": "GMail",
+        "sv": "GMail",
+        "de": "GMail"
+      },
+      "description": {
+        "en": "Google Email",
+        "fi": "Google Email",
+        "sv": "Google Email",
+        "de": "Google Email"
+      },
+      "icon": "gmail",
+      "command": "https://gmail.com"
+    }
+  },
+  "menus": {},
+  "categories": {
+    "category-google": {
+      "hidden": true,
+      "name": {
+        "en": "Google Apps",
+        "fi": "Google Apps",
+        "sv": "Google Apps",
+        "de": "Google Apps"
+      },
+      "position": "20",
+      "programs": [
+        "google-chrome",
+        "google-drive",
+        "google-classroom",
+        "google-calendar",
+        "gmail",
+        "google-sheets",
+        "google-docs",
+        "google-slides",
+        "google-forms",
+        "google-meet",
+        "google-keep",
+        "google-sites"
+      ]
+    }
+  }
+}

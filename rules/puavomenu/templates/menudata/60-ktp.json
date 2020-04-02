@@ -1,0 +1,90 @@
+{
+  "programs": {
+    "oma-abitti": {
+      "type": 2,
+      "tags": [
+        "default",
+        "internet",
+        "education"
+      ],
+      "name": {
+        "en": "Oma Abitti",
+        "fi": "Oma Abitti",
+        "sv": "Oma Abitti",
+        "de": "Oma Abitti"
+      },
+      "description": {
+        "en": "Oma abitti",
+        "fi": "Oma abitti",
+        "sv": "Oma abitti",
+        "de": "Oma abitti"
+      },
+      "icon": "web-browser",
+      "command": "https://oma.abitti.fi"
+    },
+    "koejakaja": {
+      "type": 2,
+      "tags": [
+        "default",
+        "internet",
+        "education"
+      ],
+      "name": {
+        "en": "Opinsys Koejakaja",
+        "fi": "Opinsys Koejakaja",
+        "sv": "Opinsys Koejakaja",
+        "de": "Opinsys Koejakaja"
+      },
+      "description": {
+        "en": "Koejakaja",
+        "fi": "Koejakaja",
+        "sv": "Koejakaja",
+        "de": "Koejakaja"
+      },
+      "icon": "alacarte",
+      "command": "https://koepalvelin.opinsys.fi"
+    },
+    "ktp-jako": {
+      "type": 1,
+      "tags": [
+        "default",
+        "internet",
+        "education"
+      ],
+      "name": {
+        "en": "Ktp-jako-kansio",
+        "fi": "Ktp-jako-kansio",
+        "sv": "Ktp-jako-kansio",
+        "de": "Ktp-jako-kansio"
+      },
+      "description": {
+        "en": "Ktp koe-kansio",
+        "fi": "Ktp koe-kansio",
+        "sv": "Ktp koe-kansio",
+        "de": "Ktp koe-kansio"
+      },
+      "icon": "/usr/share/icons/Faenza/places/64/folder-documents.png",
+      "command": "nautilus /home/puavo-ers/ktp-jako"
+    }
+  },
+  "menus": {},
+  "categories": {
+    "category-ktp": {
+      "hidden": true,
+      "name": {
+        "en": "KTP",
+        "fi": "KTP",
+        "sv": "KTP",
+        "de": "KTP"
+      },
+      "position": "-100",
+      "programs": [
+        "google-chrome",
+        "firefox",
+        "oma-abitti",
+        "koejakaja",
+        "ktp-jako"
+      ]
+    }
+  }
+}
